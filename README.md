@@ -68,7 +68,7 @@ src/
 │   ├── deleteDocument.ts
 │   ├── getAddressByCep.ts
 │   └── getDocuments.ts 
-
+│ 
 ├── types/
 │   ├── address.ts
 │   ├── document.ts
